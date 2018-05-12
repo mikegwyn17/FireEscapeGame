@@ -35,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Assets files that should be downloaded instead.
+FireEscapeGame/Assets/Standard Assets
+FireEscapeGame/Assets/Standard Assets.meta
